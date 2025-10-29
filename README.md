@@ -20,7 +20,7 @@ A colorful, interactive Streamlit dashboard to track, compare, and optimize COâ‚
 
 
 Install requirements:
->install hackton.py \n
+>install hackton.py
 >pip install streamlit
 
 ---

@@ -54,52 +54,13 @@ Install requirements:
 - Pie chart: Proportional emissions by category
 - Bar chart: Baseline vs. Optimized totals
 
----
-
-## 🖼️ **Screenshots**
-
-<!-- Add images here (for example) -->
-![App Layout](screenshots/app_layout.png)
-![Pie Chart](screenshots/pie_chart.png)
-![Bar Chart](screenshots/bar_chart.png)
-
----
-
-## ✨ **Customization & Fun**
-
-- Emoji and colors for instant digital engagement 😍
-- All input fields and sliders easily modified for your needs
-- Pretty charts and confetti for eco-friendly changes
 
 ---
 
 ## 🦄 **Credits**
 
-- **Author:** _Your Name_
+- **Author:** ADNAR
 - **Powered by:** [Streamlit](https://streamlit.io/)
-- **Design inspiration:** Modern dashboards, Cocomelon visual flavor
+- **Design inspiration:** Modern dashboards
 
 ---
-
-## 📄 **License**
-
-This repo is licensed under the **MIT License**.  
-Feel free to use, edit, and share!
-
----
-
-## 💚 **Contributing**
-
-Pull requests, ideas and suggestions are always welcome—help make Green Meter even greener and more fun!
-
----
-
-## 🤩 **Try Online**
-
-Deploy on [Streamlit Cloud](https://share.streamlit.io/) or run locally for instant results.
-
----
-
-## **Contact**
-
-*For questions, customizations, or feature requests, open an issue or email yourname@domain.com.*

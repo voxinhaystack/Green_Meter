@@ -20,15 +20,13 @@ A colorful, interactive Streamlit dashboard to track, compare, and optimize CO�
 
 
 Install requirements:
->git clone https://github.com/yourusername/green-meter-app.git
->cd green-meter-app
->pip install streamlit matplotlib numpy
+>pip install streamlit
 
 ---
 
 ## ▶️ **Quick Start**
 
->streamlit run green_meter_app.py
+>streamlit run hackton.py
 
 
 - App opens in your browser.
